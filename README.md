@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Edouard 👋
 
-<!--
-**Eddvance/Eddvance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** based in Victoria, BC 🇨🇦
 
-Here are some ideas to get you started:
+I build microservices with Java & Spring Boot — clean architecture, well-documented, production-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+🚀 **[Flyst](https://github.com/Eddvance/Flyst)** — Social platform built with microservices (private codebase)
+- Cerberus (JWT auth) • Columba (messaging) • Winyx (data compression)
+- Spring Boot, React Native
+
+🌱 **[LowCarb](https://github.com/Eddvance/LowCarb)** — Carbon footprint calculator
+- 6 microservices • Docker • Prometheus & Grafana monitoring
+- [Full architecture →](https://github.com/Eddvance/LowCarb)
+
+## Tech I work with
+
+Java • Spring Boot • Spring WebFlux • PostgreSQL • Docker • JWT • REST APIs • Microservices
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edouard-leroy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:leroyedouard@protonmail.com)
