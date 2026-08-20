@@ -10,4 +10,4 @@ Flyn — Social platform built with Java, Spring Boot, React Native and microser
 
 LowCarb — Carbon footprint calculator built with a distributed microservices architecture.
 
- edouardleroy.ca
+[edouardleroy.ca](https://edouardleroy.ca)
