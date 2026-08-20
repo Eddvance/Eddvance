@@ -1,24 +1,13 @@
-# Hey, I'm Edouard 👋
+# Edouard Leroy
 
-**Backend Developer** based in Victoria, BC 🇨🇦
+Java Software Engineer based in Victoria, BC 🇨🇦
 
-I build microservices with Java & Spring Boot — clean architecture, well-documented, production-ready.
+I work mainly with Java and Spring Boot, building and maintaining backend applications, from microservices and new systems to existing and legacy codebases.
 
-## What I'm working on
+## Projects
 
-🚀 **[Flyst](https://github.com/Eddvance/Flyst)** — Social platform built with microservices (private codebase)
-- Cerberus (JWT auth) • Columba (messaging) • Winyx (data compression)
-- Spring Boot, React Native
+Flyn — Social platform built with Java, Spring Boot, React Native and microservices.
 
-🌱 **[LowCarb](https://github.com/Eddvance/LowCarb)** — Carbon footprint calculator
-- 6 microservices • Docker • Prometheus & Grafana monitoring
-- [Full architecture →](https://github.com/Eddvance/LowCarb)
+LowCarb — Carbon footprint calculator built with a distributed microservices architecture.
 
-## Tech I work with
-
-Java • Spring Boot • Spring WebFlux • PostgreSQL • Docker • JWT • REST APIs • Microservices
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edouard-leroy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:leroyedouard@protonmail.com)
+🌐 edouardleroy.ca
