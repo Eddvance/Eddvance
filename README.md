@@ -6,7 +6,7 @@ I work mainly with Java and Spring Boot, building and maintaining backend applic
 
 ## Projects
 
-Flyn — Social platform built with Java, Spring Boot, React Native and microservices. [flynapp.ca](https://flynapp.ca)
+Flyn — Social platform built with Java, Spring Boot, React Native and microservices.       [flynapp.ca](https://flynapp.ca)
 
 LowCarb — Carbon footprint calculator built with a distributed microservices architecture.
 
